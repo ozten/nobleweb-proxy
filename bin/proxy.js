@@ -4,7 +4,6 @@ var http = require('http');
 var fs = require('fs');
 
 
-var connect = require('connect');
 var httpProxy = require('http-proxy');
 
 
